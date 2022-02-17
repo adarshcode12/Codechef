@@ -1,0 +1,1 @@
+aa=int(input())
